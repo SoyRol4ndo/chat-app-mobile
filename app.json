@@ -1,0 +1,14 @@
+{
+	"expo": {
+		"scheme": "chatapp",
+		"web": {
+			"bundler": "metro"
+		},
+		"plugins": ["expo-router"],
+		"android": {
+			"package": "host.exp.exponent"
+		},
+		"name": "chat-app",
+		"slug": "chat-app"
+	}
+}
